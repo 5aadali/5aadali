@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saad Ather Ali</h1>
 <h3 align="center">A passionate Python developer from Karachi, Pakistan.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadali05&label=Profile%20views&color=05b9b9&style=flat" alt="saadali05" /> </p>
+<p align="center">  
+   Visitor count:
+   <img src="https://profile-counter.glitch.me/saadali05/count.svg" align="center"/> 
+ </p>
+<img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=65/>
 
 <p align="left"> <a href="https://twitter.com/saadi5603" target="blank"><img src="https://img.shields.io/twitter/follow/saadi5603?logo=twitter&style=for-the-badge" alt="saadi5603" /></a> </p>
 
