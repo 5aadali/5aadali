@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/saadi5603" target="blank"><img src="https://img.shields.io/twitter/follow/saadi5603?logo=twitter&style=for-the-badge" alt="saadi5603" /></a> </p> 
 
-<h3 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> About myself:</
+<h3 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> About myself:</h3>
 
 - 🔭 I’m currently working on [hardware construction.](https://github.com/saadali05/CHISEL-LABS)
 
