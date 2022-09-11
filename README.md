@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saadalioffic@gmail.com**
 
-- 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Here is the link of my photograpy page. <p align="left"> <a href="https://www.instagram.com/_nerdclicks/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nerdclicks" height=30/></a> </p>  
+- 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Here is the link of my photograpy page on instagram. <p> <a href="https://www.instagram.com/_nerdclicks/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nerdclicks" height=30/></a></p>
 
 <h3 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Connect with me:</h3>
 <p align="left">
