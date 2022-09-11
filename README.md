@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **saadalioffic@gmail.com**
 
-<img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471os9tud3yv2xodyaav8ar32vk4bduqlw6i68tvg7&rid=giphy.gif&ct=g' height=100/>
+<img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471os9tud3yv2xodyaav8ar32vk4bduqlw6i68tvg7&rid=giphy.gif&ct=g' height=250/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
