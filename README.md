@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **saadalioffic@gmail.com**
 
+<img src="![image](https://user-images.githubusercontent.com/79059375/189522959-e598219c-46ba-4555-b7c4-73f52ca0de6d.png)/saadali05/count.svg" align="center"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saadi5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi5603" height="30" width="40" /></a>
