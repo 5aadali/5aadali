@@ -18,11 +18,11 @@
 
 - 📫 How to reach me **saadalioffic@gmail.com**
 
-<img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471os9tud3yv2xodyaav8ar32vk4bduqlw6i68tvg7&rid=giphy.gif&ct=g' height=250/>
+<p align="right"> <img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471os9tud3yv2xodyaav8ar32vk4bduqlw6i68tvg7&rid=giphy.gif&ct=g' height=250/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saadi5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi5603" height="30" width="40" /></a>
+<a href="https://twi<p align="right"> tter.com/saadi5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi5603" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saadali5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadali5" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100004491677589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004491677589" height="30" width="40" /></a>
 <a href="https://instagram.com/_nerdguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nerdguy" height="30" width="40" /></a>
