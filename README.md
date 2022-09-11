@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saadali05](https://github.com/saadali05)
 
-- 💬 Ask me about **python, scala and gaming.**
+- 💬 Ask me about **python, scala, chisel, and HTML.**
 
 - 📫 How to reach me **saadalioffic@gmail.com**
 
