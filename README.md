@@ -7,7 +7,7 @@
 <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=65/>
 
 <p align="left"> <a href="https://twitter.com/saadi5603" target="blank"><img src="https://img.shields.io/twitter/follow/saadi5603?logo=twitter&style=for-the-badge" alt="saadi5603" /></a> </p>
-<p align="left">
+
 - 🔭 I’m currently working on [hardware construction.](https://github.com/saadali05/CHISEL-LABS)
 
 - 🌱 I’m currently learning **Scala and frontend development.**
@@ -17,9 +17,6 @@
 - 💬 Ask me about **python, scala and gaming.**
 
 - 📫 How to reach me **saadalioffic@gmail.com** 
-   </p>
-
-<p align="right"> <img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471os9tud3yv2xodyaav8ar32vk4bduqlw6i68tvg7&rid=giphy.gif&ct=g' height=250/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
