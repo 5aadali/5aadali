@@ -1,4 +1,4 @@
-<img src='https://github.com/saadali05/gif_for_github/blob/main/pacman_game.gif' height="200" width="1000"/>
+<img src='https://github.com/saadali05/gif_for_github/blob/main/giphy.gif' height="400" width="1000"/>
 
 <h1 align="center">Hi 👋, I'm Saad Ather Ali</h1>
 <h3 align="center">A passionate Python developer from Karachi, Pakistan.</h3>
