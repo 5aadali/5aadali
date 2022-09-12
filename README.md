@@ -1,7 +1,7 @@
 <img src='https://github.com/saadali05/gif_for_github/blob/main/giphy.gif' height="160" width="1000"/>
 
 <h1 align="center">Hi 👋, I'm Saad Ather Ali</h1>
-<p align="center">A passionate Python developer from Karachi, Pakistan.</p>
+<h3 align="center">A passionate Python developer from Karachi, Pakistan.</h3>
 <h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Visitor count: </h2>
 <p align="center"> <img src="https://profile-counter.glitch.me/saadali05/count.svg" align="center"/> </p> 
 
