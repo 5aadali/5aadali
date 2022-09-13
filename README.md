@@ -1,23 +1,27 @@
 <img src='https://github.com/saadali05/gif_for_github/blob/main/giphy.gif' height="160" width="1000"/>
 
-<h1 align="center">Hi 👋, I'm Saad Ather Ali</h1>
+<h1 align="center">Hi 👋, I'm <a href='https://linkedin.com/in/saadali5' > Saad Ather Ali </a></h1>
 <h3 align="center">A passionate Python developer from Karachi, Pakistan.</h3>
 <h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Visitor count: </h2>
 <p align="center"> <img src="https://profile-counter.glitch.me/saadali05/count.svg" align="center"/> </p> 
 
-<h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> About myself:</h2>
+<img align="right" alt="Coding" width="500" height="300" src='https://github.com/saadali05/gif_for_github/blob/main/programming.gif' height=237 >
 
-- 🔭 I’m currently working on [hardware construction.](https://github.com/saadali05/CHISEL-LABS)
+<h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height="30"> About myself:</h2><br>
+
+<p align='left'>
+- 🔭 I’m currently working on <a href='https://github.com/saadali05/CHISEL-LABS'>hardware construction.</a>
 
 - 🌱 I’m currently learning **Scala and frontend development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saadali05](https://github.com/saadali05)
+- 👨‍💻 All of my projects are available at <a href = "https://github.com/saadali05](https://github.com/saadali05)" > Githhub Projects. </a>
 
 - 💬 Ask me about **python, scala, chisel, and HTML.**
 
 - 📫 How to reach me **saadalioffic@gmail.com**
 
-- 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Here is the link of my photograpy page on instagram. <p> <a href="https://www.instagram.com/_nerdclicks/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nerdclicks" height=30/></a></p>
+- 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Follow page on instagram<a href="https://www.instagram.com/_nerdclicks/" target="blank"> _nerdclicks . </a> 
+</p>
 
 <h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Connect with me:</h2>
 <p align="left">
