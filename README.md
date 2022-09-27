@@ -5,7 +5,9 @@
 <h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Visitor count: </h2>
 <p align="center"> <img src="https://profile-counter.glitch.me/saadali05/count.svg" align="center"/> </p> 
 
-<img align="right" alt="Coding" width="500" height="300" src='https://github.com/saadali05/gif_for_github/blob/main/programming.gif' height=237 >
+ <a href='https://github.com/samadpls/Islamic-qoutes'>
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a>
+
 
 <h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height="30"> About myself:</h2><br>
 
