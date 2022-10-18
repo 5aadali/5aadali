@@ -23,7 +23,6 @@
 - 📫 How to reach me **saadalioffic@gmail.com**
 
 - 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Follow page on instagram<a href="https://www.instagram.com/_nerdclicks/" target="blank"> _nerdclicks . </a> 
-[![@saadali05's Holopin board](https://holopin.me/saadali05)](https://holopin.io/@saadali05)
 </p>
 
 <h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Connect with me:</h2>
@@ -39,6 +38,7 @@
 <a href="https://discord.gg/AVUCvJx9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9153" height="30" width="40" /></a>
 </p>
 
+
 <h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Languages and Tools:</h2>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
@@ -50,5 +50,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadali05&theme=dark" alt="saadali05" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saadali05&bg_color=000000&color=f7f7f7&line=af3208&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![@saadali05's Holopin board](https://holopin.me/saadali05)](https://holopin.io/@saadali05)
