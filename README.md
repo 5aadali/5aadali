@@ -1,15 +1,23 @@
-<img src='https://github.com/saadali05/gif_for_github/blob/main/giphy.gif' height="160" width="1000"/>
+<img src='https://github.com/saadali05/gif_for_github/blob/main/giphy.gif' height="180" width="1000"/>
 
-<h1 align="center">Hi 👋, I'm <a href='https://linkedin.com/in/saadali5' > Saad Ather Ali </a></h1>
-<h3 align="center">A passionate Python developer from Karachi, Pakistan.</h3>
-<h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Visitor count: </h2>
-<p align="center"> <img src="https://profile-counter.glitch.me/saadali05/count.svg" align="center"/> </p> 
+<a href="https://linkedin.com/in/saadali5" target="_blank">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋%20Saad%20Ather%20Ali%20Here&fontSize=30&height=120&width=100%&section=header"/>
+</p></a>
 
- <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a>
+<div align='center'>
+<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=500&lines=Software+Engineer+👨‍💻+%7C+Python+%7C+CHISEL+%7C+HTML+%26+CSS+%7C" alt="Typing SVG" />
+</a></div><br>
+
+<h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Visitor count: </h2> 
+
+<p> <img src="https://profile-counter.glitch.me/saadali05/count.svg" align="center"/> </p>
+
+ <a>
+<img align='right' src='https://github.com/saadali05/gif_for_github/blob/main/coding.gif' widht=100 height=300 alt='Saad_Gifs'></a>
 
 
-<h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height="30"> About myself:</h2><br>
+<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height="30"> About myself:</h2><br>
 
 <p align='left'>
 - 🔭 I’m currently working on <a href='https://github.com/saadali05/CHISEL-LABS'>hardware construction.</a>
@@ -25,7 +33,7 @@
 - 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Follow page on instagram<a href="https://www.instagram.com/_nerdclicks/" target="blank"> _nerdclicks . </a> 
 </p>
 
-<h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Connect with me:</h2>
+<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height=30/> Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/@saadi5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@saadi5603" height="30" width="40" /></a>
 <a href="https://twitter.com/saadi5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi5603" height="30" width="40" /></a>
@@ -39,10 +47,10 @@
 </p>
 
 
-<h2 align="left"><img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Languages and Tools:</h2>
+<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height=30/> Languages and Tools:</h2>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
-<h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Github Stats: </h2> 
+<h2 align="left"> <img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height=30/> Github Stats: </h2> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadali05&show_icons=true&title_color=dc7828&text_color=dc7828&bg_color=000000&locale=en&layout=compact" alt="saadali05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadali05&show_icons=true&title_color=dc7828&text_color=dc7828&bg_color=000000&locale=en" alt="saadali05" /></p>
