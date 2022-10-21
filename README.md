@@ -6,7 +6,7 @@
 </p></a>
 
 <div align='center'>
-<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=500&lines=Software+Engineer+%7C+Python+%7C+CHISEL+%7C+HTML+%26+CSS+%7C" alt="Typing SVG" />
+<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=470&lines=SOFTWARE+ENGINEER+%7C+PYTHON+%7C+CHISEL+%7C+HTML+%26+CSS+%7C" alt="Typing SVG" />
 </a></div><br>
 
 <h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=30/> Visitor count: </h2> 
