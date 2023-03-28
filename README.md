@@ -20,9 +20,10 @@
 <h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height="30"> About myself:</h2><br>
 
 <p align='left'>
-* 🔭 I’m currently working on <a href='https://github.com/saadali05/CHISEL-LABS'>hardware construction.</a>
 
 * 🌱 I’m currently learning **Scala and frontend development.**
+  
+* 🔭 I’m currently working on <a href='https://github.com/saadali05/CHISEL-LABS'>hardware construction
 
 * 👨‍💻 All of my projects are available at <a href = "https://github.com/saadali05?tab=repositories" > Github Projects. </a>
 
