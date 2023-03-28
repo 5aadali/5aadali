@@ -57,7 +57,4 @@
 |---|---|---|
 |[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadali05&theme=gruvbox)](https://github.com/saadali05/)|[![GitHub Streak](https://streak-stats.demolab.com?user=saadali05&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/saadali05/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadali05&theme=gruvbox)](https://github.com/saadali05/)|
 
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saadali05&bg_color=000000&color=f7f7f7&line=af3208&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![@saadali05's Holopin board](https://holopin.me/saadali05)](https://holopin.io/@saadali05)
