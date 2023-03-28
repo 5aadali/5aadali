@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Scala and frontend development.**
 
-- 👨‍💻 All of my projects are available at <a href = "https://github.com/saadali05?tab=repositories" > Githhub Projects. </a>
+- 👨‍💻 All of my projects are available at <a href = "https://github.com/saadali05?tab=repositories" > Github Projects. </a>
 
 - 💬 Ask me about **python, scala, chisel, and HTML.**
 
