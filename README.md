@@ -27,7 +27,7 @@
 
 * 👨‍💻 All of my projects are available at <a href = "https://github.com/saadali05?tab=repositories" > Github Projects. </a>
 
-* 💬 Ask me about **python, scala, chisel, and HTML.**
+* 💬 Ask me about **python, scala, chisel, HTML and css.**
 
 * 📫 How to reach me **saadalioffic@gmail.com**
 
