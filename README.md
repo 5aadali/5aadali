@@ -17,7 +17,7 @@
 <img align='right' src='https://github.com/saadali05/gif_for_github/blob/main/coding.gif' widht=100 height=300 alt='Saad_Gifs'></a>
 
 
-<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height="30"> About myself:</h2><br>
+<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height="31"> About myself:</h2><br>
 
 <p align='left'>
 
