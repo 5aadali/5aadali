@@ -31,7 +31,7 @@
 
 * 📫 How to reach me **saadalioffic@gmail.com**
 
-* 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Follow page on instagram<a href="https://www.instagram.com/_nerdclicks/" target="blank"> _nerdclicks . </a> 
+* 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Follow page on instagram<a href="https://www.instagram.com/captured_by_saaday/" target="blank"> _nerdclicks . </a> 
 </p>
 
 <h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height=30/> Connect with me:</h2>
