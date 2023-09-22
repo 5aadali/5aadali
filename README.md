@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/saadali5" target="_blank">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋%20Saad%20Ather%20Ali%20Here&fontSize=30&height=120&width=100%&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋%20Saad%20Ather%20Ali%20Here&fontSize=31&height=120&width=100%&section=header"/>
 </p></a>
 
 <div align='center'>
