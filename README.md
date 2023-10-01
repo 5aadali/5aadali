@@ -1,4 +1,4 @@
-<img src='https://github.com/saadali05/gif_for_github/blob/main/335f6d0c74c29626008bae58feb98808.gif' height="200" width="1000"/>
+<img src='https://github.com/saadali05/gif_for_github/blob/main/335f6d0c74c29626008bae58feb98808.gif' height="201" width="1000"/>
 
 <a href="https://linkedin.com/in/saadali5" target="_blank">
 <p align="center">
