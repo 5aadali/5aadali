@@ -1,21 +1,8 @@
-<img src='https://github.com/saadali05/gif_for_github/blob/main/335f6d0c74c29626008bae58feb98808.gif' height="201" width="1000"/>
 
+<h1>
 <a href="https://linkedin.com/in/saadali5" target="_blank">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋%20Saad%20Ather%20Ali%20Here&fontSize=31&height=120&width=100%&section=header"/>
-</p></a>
-
-<div align='center'>
-<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=470&lines=SOFTWARE+ENGINEER+%7C+PYTHON+%7C+CHISEL+%7C+HTML+%26+CSS+%7C" alt="Typing SVG" />
-</a></div><br>
-
-<h2 align="left"> <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/cartoon1.gif' height=31/> Visitor count: </h2> 
-
-<p> <img src="https://profile-counter.glitch.me/saadali05/count.svg" align="center"/> </p>
-
- <a>
-<img align='right' src='https://github.com/saadali05/gif_for_github/blob/main/coding.gif' widht=100 height=300 alt='Saad_Gifs'></a>
-
+  <img src="head_post.png" align='center' ></a>
+</h1>
 
 <h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height="31"> About myself:</h2><br>
 
@@ -64,5 +51,3 @@
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
 |[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadali05&theme=gruvbox)](https://github.com/saadali05/)|[![GitHub Streak](https://streak-stats.demolab.com?user=saadali05&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/saadali05/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadali05&theme=gruvbox)](https://github.com/saadali05/)|
-
-[![@saadali05's Holopin board](https://holopin.me/saadali05)](https://holopin.io/@saadali05)
