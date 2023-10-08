@@ -4,24 +4,24 @@
   <img src="image.png" align='center' ></a>
 </h1>
 
-<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height="31"> About myself:</h2><br>
+<h2 align="left"> About myself:</h2><br>
 
 <p align='left'>
 
 * 🌱 I’m currently learning **Scala and backend development.**
   
-* 🔭 I’m currently working on <a href='https://github.com/saadali05/CHISEL-LABS'>hardware construction
+* 🔭 I’m currently working on <a href='https://github.com/saadali05/CHISEL-LABS'>hardware construction.
 
 * 👨‍💻 All of my projects are available at <a href = "https://github.com/saadali05?tab=repositories" > Github Projects. </a>
 
 * 💬 Ask me about **PYTHON, CHISEL, SCALA, CSS and HTML.**
 
-* 📫 How to reach me **saadalioffic@gmail.com**
+* 📫 How to reach me **saadalioffic@gmail.com**.
 
 * 📸 I'm also passionate photographer. Street and nature photograpy is my favorite. Follow page on instagram<a href="https://www.instagram.com/captured_by_saaday/" target="blank"> captured by saaday. </a> 
 </p>
 
-<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height=30/> Connect with me:</h2>
+<h2 align="left"> Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/@saadi5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@saadi5603" height="30" width="40" /></a>
 <a href="https://twitter.com/saadi5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi5603" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 </p>
 
 
-<h2 align="left"><img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height=30/> Languages and Tools:</h2>
+<h2 align="left"> Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="41" height="41"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="41" height="41"/> </a> 
@@ -46,7 +46,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="python" width="41" height="41"/> </a> 
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="41" height="41"/> </a> </p>
 
-<h2 align="left"> <img src='https://github.com/saadali05/gif_for_github/blob/main/daftpunktocat-guy.gif' height=30/> Github Stats: </h2> 
+<h2 align="left"> Github Stats: </h2> 
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
