@@ -8,7 +8,7 @@
 
 <p align='left'>
 
-* 🌱 I’m currently learning **Scala and frontend development.**
+* 🌱 I’m currently learning **Scala and backend development.**
   
 * 🔭 I’m currently working on <a href='https://github.com/saadali05/CHISEL-LABS'>hardware construction
 
