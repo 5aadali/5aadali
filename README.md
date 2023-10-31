@@ -1,4 +1,4 @@
-<p height="1"></p>
+<p height="0"></p>
 <h1>
 <a href="https://linkedin.com/in/saadali5" target="_blank">
   <img src="Images/image.png" align='center' ></a>
