@@ -37,4 +37,4 @@
 
 | Stats | Streak | Languages |
 |---|---|---|
-| [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadali05&theme=gruvbox)](https://github.com/saadali05/) | [![GitHub Streak](https://streak-stats.demolab.com?user=saadali05&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/saadali05/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadali05&theme=gruvbox)](https://github.com/saadali05/) |
+| [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadali05&theme=blueberry)](https://github.com/saadali05/) | [![GitHub Streak](https://streak-stats.demolab.com?user=saadali05&theme=blueberry&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=4C8EDA)](https://github.com/saadali05/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadali05&theme=blueberry)](https://github.com/saadali05/) |
